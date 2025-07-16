@@ -22,6 +22,11 @@
       "symbol": "var_hasautoclicker"
     },
     {
+      "id": "4",
+      "name": "connectedLinkCable",
+      "symbol": "var_connectedlinkcable"
+    },
+    {
       "id": "b7aa148c-e561-4421-b734-b36222bfa411__L0",
       "name": "Local 0",
       "symbol": "var_local_0"
@@ -35,11 +40,6 @@
       "id": "f1c7912f-cc40-4071-b7f5-e3746ec2a936__L0",
       "name": "Local 0",
       "symbol": "var_local_2"
-    },
-    {
-      "id": "4",
-      "name": "connectedLinkCable",
-      "symbol": "var_connectedlinkcable"
     }
   ]
 }
