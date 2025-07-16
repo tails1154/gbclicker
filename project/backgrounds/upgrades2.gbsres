@@ -8,5 +8,6 @@
   "imageWidth": 160,
   "imageHeight": 144,
   "filename": "upgrades2.png",
-  "tileColors": "00cf+04c+008+04c+008+04c+008+04c+0051+"
+  "tileColors": "00cf+04c+008+04c+008+04c+008+04c+0051+",
+  "autoColor": false
 }

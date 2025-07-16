@@ -2,6 +2,11 @@
   "_resourceType": "variables",
   "variables": [
     {
+      "id": "0",
+      "name": "nextMultiplierCost",
+      "symbol": "var_nextmultipliercost"
+    },
+    {
       "id": "1",
       "name": "clicks",
       "symbol": "var_clicks_0"
@@ -10,6 +15,11 @@
       "id": "2",
       "name": "multiplier",
       "symbol": "var_multiplier"
+    },
+    {
+      "id": "3",
+      "name": "hasAutoclicker",
+      "symbol": "var_hasautoclicker"
     },
     {
       "id": "b7aa148c-e561-4421-b734-b36222bfa411__L0",
@@ -22,14 +32,14 @@
       "symbol": "var_local_1"
     },
     {
-      "id": "0",
-      "name": "nextMultiplierCost",
-      "symbol": "var_nextmultipliercost"
+      "id": "f1c7912f-cc40-4071-b7f5-e3746ec2a936__L0",
+      "name": "Local 0",
+      "symbol": "var_local_2"
     },
     {
-      "id": "3",
-      "name": "hasAutoclicker",
-      "symbol": "var_hasautoclicker"
+      "id": "4",
+      "name": "connectedLinkCable",
+      "symbol": "var_connectedlinkcable"
     }
   ]
 }
