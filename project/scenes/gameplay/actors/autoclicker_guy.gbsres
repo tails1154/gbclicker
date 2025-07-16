@@ -157,31 +157,6 @@
             "id": "4c0c0a57-676e-4ba6-aef1-b23fd01a3873"
           },
           {
-            "command": "EVENT_TEXT",
-            "args": {
-              "text": [
-                "ltransfer3"
-              ],
-              "__section": "text",
-              "avatarId": "",
-              "minHeight": 4,
-              "maxHeight": 7,
-              "textX": 1,
-              "textY": 1,
-              "textHeight": 5,
-              "position": "bottom",
-              "clearPrevious": true,
-              "showFrame": "true",
-              "speedIn": -1,
-              "speedOut": -1,
-              "closeWhen": "text",
-              "closeButton": "a",
-              "closeDelayTime": 0.5,
-              "closeDelayFrames": 30
-            },
-            "id": "530be611-4d06-4412-900b-b34b8cefb4ff"
-          },
-          {
             "command": "EVENT_LINK_TRANSFER",
             "args": {
               "sendVariable": "1",
@@ -202,32 +177,6 @@
             "id": "83ca8666-20eb-452e-8124-4efcad8629bc"
           },
           {
-            "command": "EVENT_TEXT",
-            "args": {
-              "text": [
-                "ltransfer4"
-              ],
-              "__section": "text",
-              "avatarId": "",
-              "minHeight": 4,
-              "maxHeight": 7,
-              "textX": 1,
-              "textY": 1,
-              "textHeight": 5,
-              "position": "bottom",
-              "clearPrevious": true,
-              "showFrame": "true",
-              "speedIn": -1,
-              "speedOut": -1,
-              "closeWhen": "text",
-              "closeButton": "a",
-              "closeDelayTime": 0.5,
-              "closeDelayFrames": 30,
-              "__collapse": false
-            },
-            "id": "f3d1fc48-48d2-47ca-be85-abe4e41345c4"
-          },
-          {
             "command": "EVENT_LINK_TRANSFER",
             "args": {
               "sendVariable": "2",
@@ -236,31 +185,6 @@
               "__collapse": true
             },
             "id": "57c16607-c1f2-4eee-879e-f6da3b8dc3ed"
-          },
-          {
-            "command": "EVENT_TEXT",
-            "args": {
-              "text": [
-                "ltransfer5"
-              ],
-              "__section": "behavior",
-              "avatarId": "",
-              "minHeight": 4,
-              "maxHeight": 7,
-              "textX": 1,
-              "textY": 1,
-              "textHeight": 5,
-              "position": "bottom",
-              "clearPrevious": true,
-              "showFrame": "true",
-              "speedIn": -1,
-              "speedOut": -1,
-              "closeWhen": "text",
-              "closeButton": "a",
-              "closeDelayTime": 0.5,
-              "closeDelayFrames": 30
-            },
-            "id": "5af162e8-1229-4029-9771-a3d837de8e4c"
           },
           {
             "command": "EVENT_LINK_CLOSE",
@@ -283,61 +207,11 @@
             "id": "3d41e640-aeb9-4385-b0c2-71a7232d0f86"
           },
           {
-            "command": "EVENT_TEXT",
-            "args": {
-              "text": [
-                "ltransfer6"
-              ],
-              "__section": "behavior",
-              "avatarId": "",
-              "minHeight": 4,
-              "maxHeight": 7,
-              "textX": 1,
-              "textY": 1,
-              "textHeight": 5,
-              "position": "bottom",
-              "clearPrevious": true,
-              "showFrame": "true",
-              "speedIn": -1,
-              "speedOut": -1,
-              "closeWhen": "text",
-              "closeButton": "a",
-              "closeDelayTime": 0.5,
-              "closeDelayFrames": 30
-            },
-            "id": "177ee094-2162-4833-b274-98e760604a28"
-          },
-          {
             "command": "EVENT_LINK_CLOSE",
             "args": {
               "__collapse": true
             },
             "id": "75419449-8a0d-478d-831e-b275bbc01ba6"
-          },
-          {
-            "command": "EVENT_TEXT",
-            "args": {
-              "text": [
-                "transfer ok"
-              ],
-              "__section": "behavior",
-              "avatarId": "",
-              "minHeight": 4,
-              "maxHeight": 7,
-              "textX": 1,
-              "textY": 1,
-              "textHeight": 5,
-              "position": "bottom",
-              "clearPrevious": true,
-              "showFrame": "true",
-              "speedIn": -1,
-              "speedOut": -1,
-              "closeWhen": "text",
-              "closeButton": "a",
-              "closeDelayTime": 0.5,
-              "closeDelayFrames": 30
-            },
-            "id": "61ce1622-e3a3-4f81-ae74-a4181d225bc9"
           }
         ],
         "false": []
