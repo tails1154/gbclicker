@@ -1,0 +1,32 @@
+{
+  "_resourceType": "scene",
+  "id": "b5642ff3-d600-435a-8fc2-989329c175dc",
+  "_index": 3,
+  "name": "upgrades",
+  "backgroundId": "2be9d11a-238c-491c-9d03-fb94f1027c53",
+  "tilesetId": "",
+  "width": 20,
+  "height": 18,
+  "type": "POINTNCLICK",
+  "paletteIds": [
+    "dmg"
+  ],
+  "spritePaletteIds": [],
+  "collisions": "",
+  "autoFadeSpeed": 1,
+  "symbol": "scene_4",
+  "x": 576,
+  "y": 400,
+  "script": [
+    {
+      "command": "EVENT_MUSIC_PLAY",
+      "args": {
+        "musicId": "0ef36892-c91c-4e8b-8c82-22680cccf854"
+      },
+      "id": "f1287141-4dd8-4366-9106-6eef6648a845"
+    }
+  ],
+  "playerHit1Script": [],
+  "playerHit2Script": [],
+  "playerHit3Script": []
+}

@@ -1,0 +1,24 @@
+{
+  "_resourceType": "scene",
+  "id": "53df2a7f-67d5-4e3f-8e65-2272f80f264e",
+  "_index": 4,
+  "name": "upgrades 2",
+  "backgroundId": "b1393e3d-8ae6-47d9-b203-df19f52f7a30",
+  "tilesetId": "",
+  "width": 20,
+  "height": 18,
+  "type": "POINTNCLICK",
+  "paletteIds": [
+    "dmg"
+  ],
+  "spritePaletteIds": [],
+  "collisions": "",
+  "autoFadeSpeed": 1,
+  "symbol": "scene_5",
+  "x": 784,
+  "y": 392,
+  "script": [],
+  "playerHit1Script": [],
+  "playerHit2Script": [],
+  "playerHit3Script": []
+}

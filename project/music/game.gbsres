@@ -1,0 +1,9 @@
+{
+  "_resourceType": "music",
+  "id": "99ce81f3-5c6f-45da-8cff-bcf68da0a375",
+  "name": "game",
+  "symbol": "song_game",
+  "filename": "game.uge",
+  "settings": {},
+  "type": "uge"
+}

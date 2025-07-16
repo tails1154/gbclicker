@@ -1,0 +1,35 @@
+{
+  "_resourceType": "variables",
+  "variables": [
+    {
+      "id": "1",
+      "name": "clicks",
+      "symbol": "var_clicks_0"
+    },
+    {
+      "id": "2",
+      "name": "multiplier",
+      "symbol": "var_multiplier"
+    },
+    {
+      "id": "b7aa148c-e561-4421-b734-b36222bfa411__L0",
+      "name": "Local 0",
+      "symbol": "var_local_0"
+    },
+    {
+      "id": "7a8e2e4c-7c3b-4034-8fca-27acfc52e202__L0",
+      "name": "Local 0",
+      "symbol": "var_local_1"
+    },
+    {
+      "id": "0",
+      "name": "nextMultiplierCost",
+      "symbol": "var_nextmultipliercost"
+    },
+    {
+      "id": "3",
+      "name": "hasAutoclicker",
+      "symbol": "var_hasautoclicker"
+    }
+  ]
+}

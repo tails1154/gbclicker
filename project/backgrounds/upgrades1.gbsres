@@ -1,0 +1,12 @@
+{
+  "_resourceType": "background",
+  "id": "2be9d11a-238c-491c-9d03-fb94f1027c53",
+  "name": "upgrades1",
+  "symbol": "bg_upgrades1",
+  "width": 20,
+  "height": 18,
+  "imageWidth": 160,
+  "imageHeight": 144,
+  "filename": "upgrades1.png",
+  "tileColors": "007c+055+00f+055+00f+055+0020+04a+00a+04a+00a+042+00!047+00a+04a+0059+"
+}
