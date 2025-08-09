@@ -44,6 +44,16 @@
   ],
   "startScript": [
     {
+      "command": "EVENT_TEXT_DRAW",
+      "args": {
+        "text": "Clicks: $01$",
+        "x": 1,
+        "y": 11,
+        "location": "background"
+      },
+      "id": "72b36269-08f2-4ab8-ae5e-62df0d2938ac"
+    },
+    {
       "command": "EVENT_IF",
       "args": {
         "condition": {

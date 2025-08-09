@@ -25,6 +25,16 @@
       "id": "8493505f-8416-4f37-bc03-3529e29da6b7"
     },
     {
+      "command": "EVENT_TEXT_DRAW",
+      "args": {
+        "text": "Clicks: $01$",
+        "x": 1,
+        "y": 11,
+        "location": "background"
+      },
+      "id": "a187662d-23f8-433d-a749-fce5ccb8d049"
+    },
+    {
       "command": "EVENT_SOUND_PLAY_EFFECT",
       "args": {
         "type": "tone",
