@@ -247,6 +247,16 @@
       "children": {
         "true": [
           {
+            "command": "EVENT_TEXT_DRAW",
+            "args": {
+              "text": "Clicks: $01$",
+              "x": 1,
+              "y": 11,
+              "location": "background"
+            },
+            "id": "f46c8a8b-13e2-42cb-a57a-cc04f724a491"
+          },
+          {
             "command": "EVENT_VARIABLE_MATH",
             "args": {
               "vectorX": "1",
@@ -277,8 +287,9 @@
           {
             "command": "EVENT_WAIT",
             "args": {
-              "time": 1,
-              "frames": 30
+              "time": 0.5,
+              "frames": 30,
+              "__collapse": false
             },
             "id": "490d8300-7490-44fe-b53b-6e0ad76aaa3d"
           }

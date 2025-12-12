@@ -27,6 +27,11 @@
       "symbol": "var_connectedlinkcable"
     },
     {
+      "id": "5",
+      "name": "gambleChance",
+      "symbol": "var_gamblechance_0"
+    },
+    {
       "id": "b7aa148c-e561-4421-b734-b36222bfa411__L0",
       "name": "Local 0",
       "symbol": "var_local_0"

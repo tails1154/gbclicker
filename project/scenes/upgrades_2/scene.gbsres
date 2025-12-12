@@ -12,12 +12,23 @@
     "dmg"
   ],
   "spritePaletteIds": [],
-  "collisions": "",
+  "collisions": "00168+",
   "autoFadeSpeed": 1,
   "symbol": "scene_5",
   "x": 784,
   "y": 392,
-  "script": [],
+  "script": [
+    {
+      "command": "EVENT_TEXT_DRAW",
+      "args": {
+        "text": "--------\n|Gamble|\n--------",
+        "x": 5,
+        "y": 6,
+        "location": "background"
+      },
+      "id": "78b2d1c0-25e8-47e1-8ca1-4cbacdb359da"
+    }
+  ],
   "playerHit1Script": [],
   "playerHit2Script": [],
   "playerHit3Script": []

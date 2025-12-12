@@ -111,6 +111,17 @@
           {
             "command": "EVENT_SET_VALUE",
             "args": {
+              "variable": "5",
+              "value": {
+                "type": "number",
+                "value": 100
+              }
+            },
+            "id": "918067f8-3e74-4dc8-a2b3-fb1ad3d8dd1c"
+          },
+          {
+            "command": "EVENT_SET_VALUE",
+            "args": {
               "variable": "0",
               "value": {
                 "type": "number",
